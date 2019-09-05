@@ -4,6 +4,15 @@ Simple TikZ set for drawing ERDs.
 
 The preamble will define the necessary tikz shapes to use in the diagram.
 
+## Table of Contents
+
+1. [TODOs](#todos)
+2. [Usage](#usage)
+    1. [Cardinality on Lines](#cardinality-on-lines)
+        1. [Crow Foot](#crow-foot)
+3. [Example](#example)
+
+
 ## TODOs
 
 * [x] Crow Foot Notation
